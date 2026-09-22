@@ -35,3 +35,7 @@ walkthrough-artifacts/
 
 # System Files
 Thumbs.db
+
+# Browser Trace Artifacts
+invoice-walkthrough-trace.zip
+baseline-trace/
